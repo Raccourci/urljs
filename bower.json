@@ -2,7 +2,7 @@
   "name": "urljs",
   "version": "0.2",
   "main": [
-    "url.js",
+    "url.js"
   ],
   "ignore": [
     ".*",
