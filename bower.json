@@ -1,0 +1,17 @@
+{
+  "name": "urljs",
+  "version": "0.2",
+  "main": [
+    "url.js",
+  ],
+  "ignore": [
+    ".*",
+    "*.css",
+    "/*.js",
+    "/*.html",
+    "/*.json",
+    "utils",
+    "test",
+    "prettify"
+  ]
+}
